@@ -1,0 +1,14 @@
+  {
+    "base_url": "https://climate.weather.gc.ca/climate_data/bulk_data_e.html",
+    "station_id": 5051,
+    "timeframe": 2,
+    "submit": "Download+Data",
+    "input_year": 1900,
+    "bucket_name": "wave-assignment",
+    "region": "us-east-1",
+    "city": "Toronto",
+    "aws_access_key_id": "AKIAST6NOE3TG2BX3R5C",
+    "aws_secret_access_key": "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"
+  }
+  
+  

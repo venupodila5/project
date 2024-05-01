@@ -1,0 +1,4 @@
+requests
+datetime
+boto3
+openpyxl
